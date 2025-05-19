@@ -13,7 +13,7 @@ public class ProdMatrix
           int b[][] = {    
                           2, 1, 1},    
                          {1, 0, 1},    
-                         {1, 3, 1}    
+                         {1, 3, 1}    dbfjn
                      };    
               
           //Calculates number of rows and columns present in first matrix    
